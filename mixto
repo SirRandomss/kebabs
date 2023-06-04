@@ -75,6 +75,9 @@ acestream://4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id ="M.Liga 4 1080", M+ LaLigaTV 4 FHD
 acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id ="M.Liga 5 1080", M+ LaLigaTV 5 FHD
+acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
+
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Dazn La Liga 1080 Multi", DAZN LaLiga FHD
 acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 
@@ -283,7 +286,7 @@ acestream://63ab9528b16e536be0da44d6f5aceac357292b95
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/178132
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/x-2qaH-7TBsyAIvenEGj4Y3KTO_jMWEp1sma9w7UFSaEapUhIb6V8VN-rESN6eMLut3qrlI2YA=s900-ck-c0x00ffffff-no-rj" group-title="TDT" tvg-id=" #0", M+ #0
-http://37.49.230.48:8080/Miglior/taJA1d0G6K0WWytw/2146
+acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="Reino Unido" tvg-id=" Liga Premier de Sky Sports, SKY SPORTS PREMIER LEAGUE
 Acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
