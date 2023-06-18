@@ -85,7 +85,7 @@ acestream://7264961f63dc9dc6ef7acee7371f7a76b6a02061
 acestream://0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Día La Liga 720", DAZN LaLiga HD
-acestream://05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl= 1" group-title="LIGA" tvg-id="Día La Liga", DAZN LaLiga 
 acestream://
@@ -103,22 +103,22 @@ acestream://cf6249379184d88a61f9db617341c6b6e6abb342
 acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg -id="DAZN 1 1080", DAZN 1 FHD
-acestream://8b2e003ef51657196d2096aa84b9b21ae4bfb660
+acestream://8ca07071b39185431f8e940ec98d1add9e561639
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg -id="DAZN 1 720", DAZN 1 HD
-acestream://47c6e8dadfba2b3bd013feecf4194ecceec428cd
+acestream://eaff9293c76a324c750ef5094c2a4e2c96518d1f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN" tvg -id="DAZN 2 1080", DAZN 2 FHD
-acestream://3f68c1aa02094e253fd8446c0c307089cecf2a1e
+acestream://60dbeeb299ec04bf02bc7426d827547599d3d9fc
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN" tvg -id="DAZN 2 720", DAZN 2 HD
-acestream://704c3c92aafbcf3234c88a4be5fd98fcbd238d85
+acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" grupo- title="DAZN" tvg-id="DAZN 3 1080", DAZN 3 FHD
-acestream://bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?ssl=1" group-title="DAZN " tvg-id="DAZN 4 1080", DAZN 4 FHD
-acestream://149a38e333de920753f1388c43247283bdb05f5b
+acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DAZN" tvg-id=" DAZN F1 1080", DAZN F1 FHD
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
