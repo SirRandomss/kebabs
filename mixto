@@ -193,10 +193,10 @@ acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541
 acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff
 
 EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Varios" tvg-id="Eurosport 1 - 1080", Eurosport 1 FHD
-acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Varios" tvg-id="Eurosport 2 - 1080", Eurosport 2 FHD
-acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-ck-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#Vamos - 1080", M+ #Vamos FHD
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
