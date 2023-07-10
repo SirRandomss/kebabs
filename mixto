@@ -211,25 +211,28 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/181913
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 1080", M+ Deportes FHD
-acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0
+acestream://d00223931b1854163e24c5c22475015d7d45c112
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M.Deportes 720", M+ Deportes HD
 acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="DEPORTES" tvg-id="M.Deportes 2 1080", M+ Deportes 2 FHD
-acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem3.png" group-title="DEPORTES" tvg-id="M.Deportes 3 1080", M+ Deportes 3 FHD
-acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20
+acestream://aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem4.png" group-title="DEPORTES" tvg-id="M.Deportes 4 1080", M+ Deportes 4 FHD
-acestream://08db089084ddbaceba7c239817407bf99708b9ad
+acestream://42e83c337ece0af9ca7808859f84c7960e9cb6f5
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" group-title="DEPORTES" tvg-id="M.Deportes 5 1080", M+ Deportes 5 FHD
-acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
+acestream://a1146358aa50c99c887108b17f62f9264186a16a
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="DEPORTES" tvg-id="M.Deportes 6 1080", M+ Deportes 6 FHD
-acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486
+acestream://8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="DEPORTES" tvg-id="M.Deportes 7 1080", M+ Deportes 7 FHD
+acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_16625550975000" group-title="Alemania" tvg-id="(DE ) DAZN 1", DAZN 1 GER
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
