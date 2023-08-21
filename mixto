@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Romania/rcs-rds.ro.channels.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones 1080 Multi", M+ Liga De Campeones FHD
-acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
+acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 ", M+ Liga De Campeones FHD
 acestream://2bac25f323be1de8208d6554337c2c8256bc32bc
@@ -102,17 +102,17 @@ acestream://2792a8a5f4a3f53cd72dec377a2639cd12a6973e
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1075242565118_image-header_pEs_1688456417000&quality=70 group-title="LIGA" tvg-id="Dazn La Liga", DAZN LaLiga 5 FHD
 acestream://99e544cddbee13798e854c1009ee7d1a93fdedf7
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg -id="M.Liga Smartbank 1080 Multi", LaLiga SmartbankTV FHD
-acestream://7791ba828c0226d8f54cef1611889d29fb333247
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg -id="M.Liga Hypermotion 1080 Multi", LaLiga Hypermotion FHD
+acestream://4c46585214b23b1d802ef2168060c7649a3894cf
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg -id="M.Liga Smartbank 720", LaLiga SmartbankTV HD
-acestream://ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg -id="M.Liga Hypermotion 720", LaLiga Hypermotion HD
+acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg -id="M.Liga Smartbank 2 1080", LaLiga SmartbankTV M2 FHD
-acestream://cf6249379184d88a61f9db617341c6b6e6abb342
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg -id="M.Liga Hypermotion 2 1080", LaLiga Hypermotion M2 FHD
+acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LIGA" tvg -id="M.Liga Smartbank 2 720", LaLiga SmartbankTV M2 HD
-acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg -id="M.Liga Hypermotion 2 720", LaLiga Hypermotion M2 HD
+acestream://2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg -id="DAZN 1 1080", DAZN 1 FHD
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
