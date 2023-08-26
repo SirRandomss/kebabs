@@ -666,40 +666,17 @@ http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151131
 #EXTINF:-1 tvg-logo="https://footters.com/wp-content/uploads/2021/08/logo-black.png" group-title="Pie de página" tvg-id="PIE DE PIE 10", PIE DE PIE 10
 http://iptvclub.live:25461/HDuKtDundvsnEZP/9jbryBZTcofehAV/151132
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 1080", Gol Mundial 1 1080
-acestream://7031601915e3d33893cb324c89055b91b9ec5574
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1", Gol Mundial 1
+acestream://78384a676407784df944243eb2f75d937fbcc253
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 2 1080", Gol Mundial 2 1080
-http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/243746
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 2", Gol Mundial 2
+acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 720", Gol Mundial 1 720
-acestream://ea800270d91039624e821e2e9394d0bee4ea0e35
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 3", Gol Mundial 3
+acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
 
-#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 2 720", Gol Mundial 2 720
-acestream://2aab272d05089ce881538a1b3288d391de152d53
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 1080 (Opción 2 )", Gol Mundial 1 1080 (Opción 2)
-acestream://3e17ba9f230b64dbaa6538b6d36b85cc3f4cd59e
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 1080 (Opción 3 )", Gol Mundial 1 1080 (Opción 3)
-acestream://f5ac7190541e98bdf94dffc6e32b4acac8f15d7b
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 1080 MultiAudio", Gol Mundial 1 1080 MultiAudio
-acestream://dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 2 1080 (Opción 2 )", Gol Mundial 2 1080 (Opción 2)
-acestream://b67faee973e5a969a0adb02d476b78ef8cec4f3e
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 720 (Opción 2 )", Gol Mundial 1 720 (Opción 2)
-acestream://e80b91500a5679965a0cbab90f5eaf6cba6da2f3
-
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 1 720 (Opción 3 )", Gol Mundial 1 720 (Opción 3)
-acestream://bc125e7047cc7a83f58ae31c213899065d88794c
-
-
-#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 2 720 (Opción 2 )", Gol Mundial 2 720 (Opción 2)
-acestream://110aad976bda241b547ad69a5c7c6dc3c87cc4b9
+#EXTINF:-1 tvg-logo="https://i.blogs.es/af855d/gol_mundial-04/840_560.jpg" group-title="Gol Mundial" tvg-id="Gol Mundial 4", Gol Mundial 4
+acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image67549822666.jpg" group-title="Rumania" tvg-id="TVR 1", TVR 1
 http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95429
