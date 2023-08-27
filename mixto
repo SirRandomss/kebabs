@@ -384,7 +384,8 @@ acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fmatch_ru_futbol_1.jpg" group-title="Rusia" tvg-id="Partido Fútbol 1", Partido Fútbol 1
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a734.png" group-title="Rusia" tvg-id="Partido Fútbol 2", Partido fútbol 2
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/stations/a734.png"
+group-title="Rusia" tvg-id="Partido Fútbol 2", Partido fútbol 2
 acestream://3832fe79145c6ca781d8c4fc4badab59cdad0382
 
 EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-match-football-3-735.png" group-title="Rusia" tvg-id= "Partido de fútbol 3", Partido de fútbol 3
@@ -421,7 +422,7 @@ http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/241203
 http://www.pandar.plus:25461/02029886660921/2628382643/102269
 
 #EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1306-Logo.png" group-title="UK" tvg-id="Sky Sports F1", Sky Sports F1
-http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13896
+acestream://b04372b9543d763bd2dbd2a1842d9723fd080076
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1517198127756763137/kPtFZmVR_400x400.jpg" group-title="UK" tvg-id="UFC FIGHT PASS", UFC FIGHTPASS
 http://ebest55.live:80/L4kLY2rBAb/VLUML3Dpdq/97148
