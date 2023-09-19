@@ -1,15 +1,15 @@
 #EXTM3U url-tvg="https://github.com/awiouy/webgrabplus/blob/master/config/siteini.pack/Romania/rcs-rds.ro.channels.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones 1080 Multi", M+ Liga De Campeones FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones 1080", M+ Liga De Campeones FHD
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 ", M+ Liga De Campeones FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080", M+ Liga De Campeones FHD
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080 2 ", M+ Liga De Campeones FHD
-acestream://16acb1d7c7760a7929d79b99f804bdf7a5d7e26b
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 1080", M+ Liga De Campeones FHD
+acestream://c728e2ee1ef6e33fd1b60bd7cbc5af22518d1028
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones HD ", M+ Liga De Campeones HD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga De Campeones HD", M+ Liga De Campeones HD
 acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 2 1080", M+ Liga De Campeones 2 FHD
