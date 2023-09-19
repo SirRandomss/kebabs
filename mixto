@@ -51,6 +51,12 @@ acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="LIGA DE CAMPEONES" tvg-id="M.Liga De Campeones 12 ", M+ Liga De Campeones 12 SD
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="DAZN" tvg-id=" DAZN F1 4K", DAZN F1 4K
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg-id="M.Liga 4K" , M+ LaLigaTV 4K
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/LaLiga_EA_Sports_2023_Vertical_Logo.svg/512px-LaLiga_EA_Sports_2023_Vertical_Logo.svg.png" group-title="LIGA" tvg-id="M.Liga 1080 Multi" , M+ LaLigaTV FHD
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
