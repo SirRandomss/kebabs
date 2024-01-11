@@ -724,19 +724,22 @@ http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/151714
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/178212
 
 #EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 1080 Multi", M+ Supercopa FHD
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+
+#EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 1080", M+ Supercopa FHD
 acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 
+#EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 1080", M+ Supercopa FHD
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
+
 #EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa 720", M+ Supercopa HD
-acestream://a16f0078ccb46ba65aaa175ad823e47ec31ab464
+acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/www.elpoderdelasideas.com/wp-content/uploads/syfy-nuevo-2017.png?resize=780%2C286" group-title= "TDT" tvg-id="SYFY FHD", SyFy FHD
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/178123
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="TDT" tvg -id="TNT FHD", TNT FHD
 http://likmodguot.site:2082/rocky21rocky21/rocky21hbfaufb/178147
-
-#EXTINF:-1 tvg-logo="https://www.jornadaperfecta.com/blog/wp-content/uploads/2020/01/Supercopa-de-Espan%CC%83a-2020.jpg" group-title= "Supercopa" tvg-id="Supercopa FHD", M+ Supercopa FHD
-http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/243743
 
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/HBO-emblema.jpg" group-title="USA" tvg-id="HBO", HBO
 http://dalmanve.bio:2082/rocky21/UJPrMzh6kSGw/368603
