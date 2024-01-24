@@ -778,6 +778,18 @@ acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/WarnerTV_France_2021.svg/1200px-WarnerTV_France_2021.svg.png" group-title="TDT" tvg-id="Warner TV", Warner TV
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
 
+#EXTINF:-1 tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" group-title="Copa del Rey" tvg-id="Copa FHD", Copa FHD
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+
+#EXTINF:-1 tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" group-title="Copa del Rey" tvg-id="Copa FHD", Copa FHD
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+
+#EXTINF:-1 tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" group-title="Copa del Rey" tvg-id="Copa FHD", Copa FHD
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+
+#EXTINF:-1 tvg-logo="https://imgresizer.eurosport.com/unsafe/2560x1440/filters:format(jpeg)/origin-imgresizer.eurosport.com/2021/03/24/3017043-61896588-2560-1440.jpg" group-title="Copa del Rey" tvg-id="Copa FHD", Copa FHD
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
+
 #EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", vacio
 
 
