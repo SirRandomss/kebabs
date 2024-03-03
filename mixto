@@ -70,10 +70,10 @@ acestream://16acb1d7c7760a7929d79b99f804bdf7a5d7e26b
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id ="M.Liga 2 1080", M+ LaLigaTV 2 FHD
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id ="M.Liga 2 720", M+ LaLigaTV 2 HD
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 
 #EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id ="M.Liga 3 1080", M+ LaLigaTV 3 FHD
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
