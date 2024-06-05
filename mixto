@@ -714,8 +714,8 @@ http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/15355
 http://pandar.plus:25461/2cCRxjQNdCjPuZf/vCoYkJGCkrwSajy/95468
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="TDT" tvg-id ="La 1 UHD", La 1
-acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/La_1_HD_TVE.png/220px-La_1_HD_TVE.png" group-title="TDT" tvg-id ="La 1", La 1
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M.Liga 4K", M+ LaLigaTV
 http://62.182.83.91:80/AhmetBerlin6565/x8JsqyEHQurwrgdzd59/13975
