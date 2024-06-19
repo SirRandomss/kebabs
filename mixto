@@ -802,6 +802,10 @@ acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
 #EXTINF:-1 tvg-logo="https://imgs.search.brave.com/It3_aa7jDkK9ux6siULe7J3KCE9QSqMQmfCYO9oqK5c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9k/L2Q4L0V1cm9zcG9y/dF8yX0xvZ29fMjAx/NS5zdmc.svg" group-title="UFC" tvg-id=" Eurosport 2 1080", Eurosport 2 1080
 acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
 
+#EXTINF:-1 tvg-logo="https://i.blogs.es/954aa1/1-uhd/450_1000.jpeg" group-title="TDT" tvg-id="La 1 UHD", La 1 UHD
+acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666
+
+
 #EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", vacio
 
 
